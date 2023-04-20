@@ -1,0 +1,1 @@
+gcloud run deploy run-dbt --no-allow-unauthenticated --region=us-central1 --source=.
